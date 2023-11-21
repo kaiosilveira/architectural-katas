@@ -1,2 +1,3 @@
 # architectural-katas
-Architectural solutions with detailed explanation and diagrams of Architectural Katas challenges
+
+Architectural solutions with detailed explanations and diagrams of Architectural Katas challenges
